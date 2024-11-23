@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class CicloDoWhiel {
+public class Califica_DoWhiel {
     public static void main(String args[]) {
         byte alum = 1;
         float cu1, cu2, cu3, cu4, cu5, prom = 0;
